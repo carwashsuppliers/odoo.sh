@@ -1,0 +1,4 @@
+[submodule "oduist/connect_addons"]
+	path = oduist/connect_addons
+	url = git@github.com:oduist/connect_addons.git
+	branch = 18.0
