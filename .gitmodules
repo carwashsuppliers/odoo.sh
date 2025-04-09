@@ -1,0 +1,4 @@
+[submodule "carwashsuppliers/CybroAddons"]
+	path = carwashsuppliers/CybroAddons
+	url = git@github.com:carwashsuppliers/CybroAddons.git
+	branch = 18.0
